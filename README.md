@@ -7,4 +7,6 @@ Tutor: Jordi de la Torre Gallart
 
 # Ficheros
 
-1. 
+## Composición de Ensembles (composicion-ensembles.ipynb)
+
+En este notebook se muestra la composición de ensembles de varios modelos CNN simples y modelos tabulares, por tal de generar nuevas predicciones sobre los datos de Test.
