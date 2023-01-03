@@ -10,3 +10,11 @@ Tutor: Jordi de la Torre Gallart
 ## Composición de Ensembles (composicion-ensembles.ipynb)
 
 En este notebook se muestra la composición de ensembles de varios modelos CNN simples y modelos tabulares, por tal de generar nuevas predicciones sobre los datos de Test.
+
+### dataset.zip
+
+Este fichero contiene el dataset con las submissions necesarias para realizar los ensembles que muestra el notebook.
+
+### results.zip
+
+Este fichero muestra las submissions compuestas generadas en la ejecución del notebook.
